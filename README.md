@@ -34,3 +34,4 @@ This project was created by the following team:
 - **Hüseyin Seyfi Girgin** – Project lead / Python development  
 - **Deniz Percinel** – Testing
 - **Martin Schindler** – Prompt Engineering
+- **Tejesh Belagallu** - Promp Engineering
