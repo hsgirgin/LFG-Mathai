@@ -23,3 +23,14 @@ This project was created in **one day** for the **Wissenschaftswoche** at the **
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
+
+---
+
+## Credits
+
+This project was created by the following team:
+
+- **Hüseyin Seyfi Girgin** – Project lead / Python development  
+- **Deniz Percinel** – Testing
+- **CMartin Schindler** – Prompt Engineering
