@@ -1,3 +1,13 @@
+# LFG-Mathai (Beta)
+
+**Interactive math tutor wrapper for LLM models providing step-by-step explanations and problem-solving guidance.**  
+
+This project was created in **one day** for the **Wissenschaftswoche** at the **Lion Feuchtwanger Gymnasium**.  
+> ⚠️ **Beta:** The project is partially complete and experimental.
+
+
+---
+
 
 ## Prerequisites
 - Install Ollama: https://ollama.com
